@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-8.4-777BB4?logo=php&logoColor=white&labelColor=4F5B66&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-8.5-777BB4?logo=php&logoColor=white&labelColor=4F5B66&style=for-the-badge" />
   <!-- Adicione mais badges conforme necessário -->
 </p>
 
